@@ -8,9 +8,3 @@ tensorboard==2.3.0
 torch==1.12.1
 torchvision==0.13.1
 Unidecode==1.1.1
-openjtalk==0.3.0.dev1
-jamo==0.4.1
-pypinyin==0.44.0
-jieba==0.42.1
-cn2an==0.5.17
-eng_to_ipa
