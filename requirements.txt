@@ -3,10 +3,10 @@ librosa==0.8.0
 matplotlib==3.3.1
 numpy==1.21.6
 phonemizer==2.2.1
-scipy==1.5.2
+scipy==1.7.3
 tensorboard==2.3.0
-torch==1.6.0
-torchvision==0.7.0
+torch==1.12
+torchvision==0.13.1
 Unidecode==1.1.1
 openjtalk==0.3.0.dev1
 jamo==0.4.1
